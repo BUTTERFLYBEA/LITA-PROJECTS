@@ -47,9 +47,9 @@ After cleaning the data in excel and making pivot tables for analysis, it was ex
 * Dashboard creation: Excel's Pivot table enabled structured summaries, allowing for dynamic updates to analyze various sales dimensions. Aggregated data in SQL formed the foundation for dashboards, supporting seamless integration with other tools for detailed analysis. Power BI's interactive dashboards provided a real-time view with slicers for in-depth analysis across customer and product dimensions.
 
 ### TOOLS USED
-Microsoft Excel: Used for data cleaning, analysis and creating pivot visualization [DOWNLOAD HERE](HTTP://WWW.MICROSOFT.COM/EN-US/MICROSOFT-365/EXCEL)
-MIcrosoft SQL server (SMSS): Used for pre-processing.
-Microsoft Power BI desktop: Used for creating dashboards and visualization. 
+* Microsoft Excel: Used for data cleaning, analysis and creating pivot visualization [DOWNLOAD HERE](HTTP://WWW.MICROSOFT.COM/EN-US/MICROSOFT-365/EXCEL)
+* MIcrosoft SQL server (SMSS): Used for pre-processing [DOWNLOAD HERE](HTTP://WWW.MICROSOFT.COM/EN-US/SQL-SERVER/SQL-SERVER-DOWNLOAD)
+* Microsoft Power BI desktop: Used for creating dashboards and visualization [DOWNLOAD HERE](HTTP://WWW.MICROSOFT.COM/EN-US/POWER-BI-DESKTOP)
 
 ## ANALYSIS
 
