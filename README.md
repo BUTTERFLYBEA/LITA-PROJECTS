@@ -15,7 +15,9 @@ In today's competitive market, businesses are constantly looking for ways to opt
 
 ## DATA 
 #### Data sources
-
+The data used in this project was obtained from the Incubator Hub. It includes detailed records of transactions, customer demographics, product information and regional sales distribution.
+#### Data Collection
+The data used was collected and complied through transaction logging. This ensures that the dataset represents an accurate record of customer interactions and purchasing patterns over a year and eight months.
 ### Data Characteristics
 The dataset includes the following variables:
 1. OrderID : Unique identification of each order purchased by the customers
@@ -31,3 +33,23 @@ The dataset includes the following variables:
 
 ### Methodology
 #### Data Cleaning
+
+* Removing duplicates
+Eliminated duplicated records to ensure Data Quality
+
+* Adding New Columns
+Added new columns sales and revenue by multipling the quantity of the product purchased by the respective unit price, added an average column for the sales/revenue of products purchased and also added a calculated column for the Marginal profit made in the company over the space of a year and eight months.
+
+### Exploratory Data Analysis (EDA)
+After cleaning the data in excel and making pivot tables for analysis, it was exported to SQL for further analysis and finally to power BI for creation of dashboard. The following were carried out: 
+* Descriptive statistics: Excel was used to calculate average sales, total sales and revenue by region and product, providing a summary of sales volume and revenue distribution. SQL queries calculated total sales and revenue for product, total revenue and sales per region, monthly sales and the most purchased products, establishing overview of the dataset. Summary cards in Power BI displayed key metrics such as total revenue, average sales, marginal profit etc, in a visually concise format.
+* Data filtering and segmentation: Excel's filtering and pivot tables allowed segmentation by region, product and year, revealing targeted insights. SQL's WHERE and GROUP BY clauses filtered and grouped by region and product, to isolate specific insights. slicers and filters in Power BI allowed segmentations of region, product and year, enabling dynamic drill-down analysis of specific data groups.
+* Dashboard creation: Excel's Pivot table enabled structured summaries, allowing for dynamic updates to analyze various sales dimensions. Aggregated data in SQL formed the foundation for dashboards, supporting seamless integration with other tools for detailed analysis. Power BI's interactive dashboards provided a real-time view with slicers for in-depth analysis across customer and product dimensions.
+
+### TOOLS USED
+Microsoft Excel: Used for data cleaning, analysis and creating pivot visualization. 
+MIcrosoft SQL server (SMSS): Used for pre-processing.
+Microsoft Power BI desktop: Used for creating dashboards and visualization. 
+
+## ANALYSIS
+
