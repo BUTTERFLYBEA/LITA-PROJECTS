@@ -64,8 +64,10 @@ After cleaning the data in excel and making pivot tables for analysis, it was ex
 ### Dashboard Overview
 ![CAPSTONE RETAIL STORE SALES ANALYSIS](https://raw.githubusercontent.com/FavourMarian/LITA-PROJECTS/19f7cbeb5b764821ad1bb76f1ceb4dc1b808ad9b/CAPSTONE%20RETAIL%20STORE%20SALES%20ANALYSIS.png)
 ![CAPSTONE RETAIL STORE SALES ANALYSIS 2](https://raw.githubusercontent.com/FavourMarian/LITA-PROJECTS/19f7cbeb5b764821ad1bb76f1ceb4dc1b808ad9b/CAPSTONE%20RETAIL%20STORE%20SALES%20ANALYSIS%202.png)
-### Data Analysis and Insight Generation
 
+## Data Analysis and Insight Generation
+
+![PRODUCT SALES OVERVIEW](https://github.com/FavourMarian/LITA-PROJECTS/blob/main/PRODUCT%20SALES%20OVERVIEW.png?raw=true)
 
 
 
