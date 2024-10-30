@@ -13,7 +13,7 @@ In today's competitive market, businesses are constantly looking for ways to opt
 4. To predict and anticipate shifts in customer demand
 
 
-## DATA 
+## DATA INFORMATION
 ### Data sources
 The data used in this project was obtained from the Incubator Hub. It includes detailed records of transactions, customer demographics, product information and regional sales distribution.
 
@@ -27,11 +27,19 @@ The dataset includes the following variables:
 3. Product : Items purchased by the customers
 4. Region : 
 5. Order Date : Date when the items(products) were purchased
-6. Quantity : The amount of items purchased by the customers
-7. Unit Price : The price of each item purchased
+6. Quantity : The amount of items purchased in each transaction
+7. Unit Price : The cost price of each item purchased
 8. Revenue : The revenue generated when the items were sold
 9. Sales : the money gotten when the item were sold
 10. Average : The average of sale
+
+### BASIC STATISTICS IN THE DATASET
+1. Total Sales: 2.1M
+2. Average Sales: 211.8
+3. Total Customer: 9921
+4. Marginal Profit: 1.8M
+5. Total Quantity: 68.5k
+6. Total Unit Price: 
 
 ## Methodology
 #### Data Cleaning
@@ -48,16 +56,15 @@ After cleaning the data in excel and making pivot tables for analysis, it was ex
 * Dashboard creation: Excel's Pivot table enabled structured summaries, allowing for dynamic updates to analyze various sales dimensions. Aggregated data in SQL formed the foundation for dashboards, supporting seamless integration with other tools for detailed analysis. Power BI's interactive dashboards provided a real-time view with slicers for in-depth analysis across customer and product dimensions.
 
 ## TOOLS USED
-* Microsoft Excel: Used for data cleaning, analysis and creating pivot visualization [DOWNLOAD HERE](HTTP://WWW.MICROSOFT.COM/EN-US/MICROSOFT-365/EXCEL)
-* MIcrosoft SQL server (SMSS): Used for pre-processing [DOWNLOAD HERE](HTTP://WWW.MICROSOFT.COM/EN-US/SQL-SERVER/SQL-SERVER-DOWNLOADS)
-* Microsoft Power BI desktop: Used for creating dashboards and visualization [DOWNLOAD HERE](HTTP://WWW.MICROSOFT.COM/EN-US/DOWNLOAD/DETAILS.ASPX?ID=58494)
+1. Microsoft Excel: Used for data cleaning, analysis and creating pivot visualization [DOWNLOAD HERE](HTTP://WWW.MICROSOFT.COM/EN-US/MICROSOFT-365/EXCEL)
+2. MIcrosoft SQL server (SMSS): Used for pre-processing [DOWNLOAD HERE](HTTP://WWW.MICROSOFT.COM/EN-US/SQL-SERVER/SQL-SERVER-DOWNLOADS)
+3. Microsoft Power BI desktop: Used for creating dashboards and visualization [DOWNLOAD HERE](HTTP://WWW.MICROSOFT.COM/EN-US/DOWNLOAD/DETAILS.ASPX?ID=58494)
 
 ## ANALYSIS
-### Analysis Questions
-* What patterns can be identified in the sales data over different time periods?
-* What time of the year do sales peak for specific products?
-* Which product has the highest sales growth rates?
-* Which region has the best revenue performance?
-* what is the relationship between sales and customer demographic?
+### Dashboard Overview
+
+### Data Analysis and Insight Generation
+
+
 
 
