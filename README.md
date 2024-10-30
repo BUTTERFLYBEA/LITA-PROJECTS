@@ -66,8 +66,10 @@ After cleaning the data in excel and making pivot tables for analysis, it was ex
 ![CAPSTONE RETAIL STORE SALES ANALYSIS 2](https://raw.githubusercontent.com/FavourMarian/LITA-PROJECTS/19f7cbeb5b764821ad1bb76f1ceb4dc1b808ad9b/CAPSTONE%20RETAIL%20STORE%20SALES%20ANALYSIS%202.png)
 
 ## Data Analysis and Insight Generation
-
+1. PRODUCT SALES OVERVIEW: 
 ![PRODUCT SALES OVERVIEW](https://github.com/FavourMarian/LITA-PROJECTS/blob/main/PRODUCT%20SALES%20OVERVIEW.png?raw=true)
 
-
-
+2. REGIONAL PERFORMANCE
+3. MONTHLY SALES TREND
+4. QUARTERLY SALES TREND
+ 
