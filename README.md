@@ -153,7 +153,6 @@ After cleaning the data in excel and making pivot tables for analysis, it was ex
 2. Subscriber Distribution and Segment Analysis
 * Subscrption count by region and type : Visualized using interactive bar charts, showing which regions have the highest subscriptions and subscription types are most popular.
 * Customer segmentation dashboard : Created visuals to differentiate segments by region and subscription type.
-
  
 ## TOOLS USED
 1. Microsoft Excel: Used for data cleaning, analysis and creating pivot visualization [DOWNLOAD HERE](HTTP://WWW.MICROSOFT.COM/EN-US/MICROSOFT-365/EXCEL)
