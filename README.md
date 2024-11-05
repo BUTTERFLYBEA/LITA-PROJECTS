@@ -61,8 +61,8 @@ After cleaning the data in excel and making pivot tables for analysis, it was ex
 
 ## ANALYSIS
 ### Dashboard Overview
-![CAPSTONE RETAIL STORE SALES ANALYSIS](https://raw.githubusercontent.com/FavourMarian/LITA-PROJECTS/19f7cbeb5b764821ad1bb76f1ceb4dc1b808ad9b/CAPSTONE%20RETAIL%20STORE%20SALES%20ANALYSIS.png)
-![CAPSTONE RETAIL STORE SALES ANALYSIS 2](https://raw.githubusercontent.com/FavourMarian/LITA-PROJECTS/19f7cbeb5b764821ad1bb76f1ceb4dc1b808ad9b/CAPSTONE%20RETAIL%20STORE%20SALES%20ANALYSIS%202.png)
+![sales 1](https://github.com/FavourMarian/LITA-PROJECTS/blob/main/sales%201.png?raw=true)
+![sales 2](https://github.com/FavourMarian/LITA-PROJECTS/blob/main/sales%202.png?raw=true)
 
 ## Data Analysis and Insight Generation
 This visualization tells us what the customers patronize the most and how they shop. this reveals to us what they purchase the most and the least and at what time and period they shop most and also the regions with the highest revenue generated.
@@ -168,8 +168,8 @@ After cleaning the data in excel and making pivot tables for analysis, it was ex
 ## ANALYSIS
 ### Dashboard Overview
 
-![project 2](https://github.com/FavourMarian/LITA-PROJECTS/blob/main/project%202.png?raw=true)
-![project 2.2](https://github.com/FavourMarian/LITA-PROJECTS/blob/main/project%202.2.png?raw=true)
+![customer 1](https://github.com/FavourMarian/LITA-PROJECTS/blob/main/customer%201.png?raw=true)
+![customer 2](https://github.com/FavourMarian/LITA-PROJECTS/blob/main/customer%202.png?raw=true)
 
 ## Data Analysis and Insight Generation
 this Visualization reveals some intriguing patterns and trend from understanding customer behavior, tracking subscription types, and identifying key trends in cancellations and renewals of the various subcription types available in the company.
@@ -184,3 +184,10 @@ this Visualization reveals some intriguing patterns and trend from understanding
 
 ## CONCLUSION
 The analysis provides valuable insights into customer behaviour, preferences, and regional trends. Key findings reveal diverse customer needs across regions, varying product preferences, and distinct demographic characteristics that impact purchasing behaviour. In conclusion, the analysis of customer data emphasizes the importance of a customer-centric approach. Adapting strategies to meet the needs of distinct customer segments will position the company for continued success, ensuring it remains responsive to evolving customer expectations and competitive within the market. 
+
+## ADDITIONAL RESOURCES
+1. My Excel Worksheet [Click Here](https://github.com/FavourMarian/LITA-PROJECTS/blob/main/My%20LITA%20Capstone%20Dataset.xlsx)
+2. My SQL [Click Here for sales data](https://github.com/FavourMarian/LITA-PROJECTS/blob/main/Capstone%201.sql)
+   [Click Here for Customer data](https://github.com/FavourMarian/LITA-PROJECTS/blob/main/Capstone%202.sql)
+3. My Power BI [Click Here for sales data](https://github.com/FavourMarian/LITA-PROJECTS/blob/main/MY%20PROJECT%201.pbix)
+   [Click Here for Customer data](https://github.com/FavourMarian/LITA-PROJECTS/blob/main/PROJECT%202.pbix)
