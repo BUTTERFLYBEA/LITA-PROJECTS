@@ -103,10 +103,10 @@ The analysis of sales data provided valuable insights into trends, product perfo
 
 ## DATA INFORMATION
 ### Data sources
-The data used in this project was obtained from the Incubator Hub. It includes detailed records of transactions, customer demographics, product information and regional sales distribution.
+The data used in this project was obtained from the Incubator Hub. It includes detailed records of transactions, customer demographics, subscription information and regional sales distribution.
 
 ### Data Collection
-The data used was collected and complied through transaction logging. This ensures that the dataset represents an accurate record of customer interactions and purchasing patterns over a year and eight months.
+The data used was collected and complied through transaction logging. This ensures that the dataset represents an accurate record of customer interactions and purchasing patterns over time.
 
 ### Data Characteristics
 The dataset includes the following variables:
@@ -133,7 +133,7 @@ The dataset includes the following variables:
 Eliminated duplicated records to ensure Data Quality
 
 * Adding New Columns
-Added new columns sales and revenue by multipling the quantity of the product purchased by the respective unit price, added an average column for the sales/revenue of products purchased and also added a calculated column for the Marginal profit made in the company over the space of a year and eight months.
+Added new columns sales and revenue by multipling the quantity of the product purchased by the respective unit price, added a column for average subscription duration of the types of subscription purchased.
 
 
 ## EXPLORATORY DATA ANALYSIS (EDA)
