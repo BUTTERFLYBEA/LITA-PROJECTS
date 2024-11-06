@@ -197,7 +197,9 @@ this Visualization reveals some intriguing patterns and trend from understanding
 
 ## CONCLUSION
 The analysis provides valuable insights into customer behaviour, preferences, and regional trends. Key findings reveal diverse customer needs across regions, varying product preferences, and distinct demographic characteristics that impact purchasing behaviour. In conclusion, the analysis of customer data emphasizes the importance of a customer-centric approach. Adapting strategies to meet the needs of distinct customer segments will position the company for continued success, ensuring it remains responsive to evolving customer expectations and competitive within the market. 
-
+--------------------------
+-------------------------
+-------------------------
 ## ADDITIONAL RESOURCES
 1. My Excel Worksheet [Click Here](https://github.com/FavourMarian/LITA-PROJECTS/blob/main/My%20LITA%20Capstone%20Dataset.xlsx)
 2. My SQL [Click Here for sales data](https://github.com/FavourMarian/LITA-PROJECTS/blob/main/Capstone%201.sql)
